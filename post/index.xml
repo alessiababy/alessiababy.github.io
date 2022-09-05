@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 🦄</title>
+    <link>https://alessiababy.github.io/post/</link>
+    <description>Recent content in Posts on 🦄</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2022</copyright>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alessiababy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test2</title>
+      <link>https://alessiababy.github.io/post/test2/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiababy.github.io/post/test2/</guid>
+      <description>testtest
+testteset </description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>https://alessiababy.github.io/post/test1/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://alessiababy.github.io/post/test1/</guid>
+      <description>testtest
+testteset </description>
+    </item>
+    
+  </channel>
+</rss>
