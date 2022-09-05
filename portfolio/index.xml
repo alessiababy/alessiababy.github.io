@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Creative portfolio</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Creative portfolio</description>
+    <title>Portfolios on Creative portfolio</title>
+    <link>https://example.org/portfolio/</link>
+    <description>Recent content in Portfolios on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2016 20:23:59 +0530</lastBuildDate><atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Name of the work 2</title>
       <link>https://example.org/portfolio/work2/</link>
